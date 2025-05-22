@@ -1,19 +1,4 @@
-# BrainyLingo - Science Fiction Stories React App
 
-A modern ReactJS app to browse, filter, and read science fiction stories, complete with vocabulary and quizzes.  
-Styled with Tailwind CSS.
-
----
-
-## 🚀 Features
-
-- Fetches stories from a REST API
-- Displays stories in beautiful, responsive cards
-- Filter by status (All, New, In Progress, Completed)
-- View full story details, vocabulary, and quiz in tabbed view
-- Modern, mobile-friendly design
-
----
 
 ## 🛠️ Getting Started
 
